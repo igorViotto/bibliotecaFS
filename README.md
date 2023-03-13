@@ -13,3 +13,11 @@ No Terminal:<br>
 Consumindo a API com Front-End:<br>
 -Os templates do projeto estão em "/front/";<br>
 -Recomendo entrar pelo "login.html".
+
+Alguns Exemplos para testar:<br>
+"verity",
+"colleen",
+"40.99,"
+"2023-02-25",
+"2023-03-10",
+
